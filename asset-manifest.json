@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/discordapp/static/css/main.e92b450f.chunk.css",
+    "main.js": "/discordapp/static/js/main.ad19d7a2.chunk.js",
+    "main.js.map": "/discordapp/static/js/main.ad19d7a2.chunk.js.map",
+    "runtime-main.js": "/discordapp/static/js/runtime-main.6aacf581.js",
+    "runtime-main.js.map": "/discordapp/static/js/runtime-main.6aacf581.js.map",
+    "static/js/2.36ec7d08.chunk.js": "/discordapp/static/js/2.36ec7d08.chunk.js",
+    "static/js/2.36ec7d08.chunk.js.map": "/discordapp/static/js/2.36ec7d08.chunk.js.map",
+    "index.html": "/discordapp/index.html",
+    "static/css/main.e92b450f.chunk.css.map": "/discordapp/static/css/main.e92b450f.chunk.css.map",
+    "static/js/2.36ec7d08.chunk.js.LICENSE.txt": "/discordapp/static/js/2.36ec7d08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aacf581.js",
+    "static/js/2.36ec7d08.chunk.js",
+    "static/css/main.e92b450f.chunk.css",
+    "static/js/main.ad19d7a2.chunk.js"
+  ]
+}
